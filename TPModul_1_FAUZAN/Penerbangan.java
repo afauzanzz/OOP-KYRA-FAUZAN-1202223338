@@ -1,4 +1,4 @@
-package Modul_1_FAUZAN;
+package TPModul_1_FAUZAN;
 
 public class Penerbangan {
     private String nomorPenerbangan;

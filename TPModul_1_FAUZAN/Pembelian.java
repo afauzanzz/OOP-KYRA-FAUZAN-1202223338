@@ -1,4 +1,4 @@
-package Modul_1_FAUZAN;
+package TPModul_1_FAUZAN;
 
 import java.util.ArrayList;
 import java.util.Scanner;
