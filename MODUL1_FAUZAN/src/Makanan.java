@@ -16,8 +16,19 @@ public class Makanan {
     public String getName(){
         return nama;
     }
-
-    public void setName(){
+    public void setNama(String nama){
         this.nama = nama;
+    }
+    public int getJumlah(){
+        return jumlah;
+    }
+    public void setJumlah(int jumlah){
+        this.jumlah = jumlah;
+    }
+    public int getHarga(){
+        return harga;
+    }
+    public void setHarga(int harga){
+        this.harga = harga;
     }
 }
